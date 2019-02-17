@@ -1,0 +1,16 @@
+/* style the page*/
+.container {
+    border: solid black;
+}
+h1 {
+    font-family: 'Coiny', cursive;
+}
+p {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+body {
+    background-image: url(https://wallpaperbrowse.com/media/images/d0136f768bf1f7a0712ac8742edf01cb--watercolor-background-pastel-pastel-ombre-background.jpg);
+     background-repeat: no-repeat;
+     background-size: 150%;
+
+}
